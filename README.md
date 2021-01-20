@@ -22,7 +22,7 @@ acrylic)
 ○ Furniture, with the properties: String type, String material
 
 
-○ Jewelry, with the properties: String material, boolean stoneIso price
+○ Jewelry, with the properties: String material, boolean Precious stone
 
 
 ● Employee
