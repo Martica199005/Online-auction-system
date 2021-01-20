@@ -35,7 +35,7 @@ acrylic)
 
 
 ● Client, with properties: int id, String name, String address, int noParticipations, int
-noLicitation iiCăș tigate
+NumberofBidsWon
 
 
 ○ Individual, with the properties: String dataBirth
